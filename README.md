@@ -1,6 +1,23 @@
-# Repositório de exercécios e aulas ao vivo da trybe
+# Trybe
 
-Este repositorio foi criado para armazenar os exercicios e aulas ao vivo.
 
-## Para clonar
-```git clone git@github.com:KCK88/trybe-exercicios.git ```
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Claudio Meira](LinkDoSeuLinkedinAqui)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
+
+
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+
+
+## Fundamentos do Desenvolvimento Web ✅
+
+
+##### Seção 1: Unix, Shell & Git
+
+
+- [ ] 1-1: _Unix & Shell_
+
+- [ ] 1-2: _Git_
+
+- ...
+
+
+[etc...]
