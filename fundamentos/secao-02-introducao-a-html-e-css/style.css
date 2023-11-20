@@ -1,70 +1,66 @@
-<style>
+h1 {
 
-      h1 {
+  color: seagreen;
 
-        color: seagreen;
+  font-size: 65px;
 
-        font-size: 65px;
+  font-family: sans-serif, Helvetica;
 
-        font-family: sans-serif, Helvetica; 
-
-      }
+}
 
 
-      .cor-de-fundo {
+.cor-de-fundo {
 
-        background-color: whitesmoke;
+  background-color: whitesmoke;
 
-      }
-
-
-      p {
-
-        font-weight: 600;
-
-      }
+}
 
 
-      body {
+p {
 
-        font-size: 16px;
+  font-weight: 600;
 
-      }
-
-
-      li {
-
-        font-style: italic;
-
-        line-height: 60px;
-
-        text-align: center;
-
-        text-decoration: underline;
-
-        font-size: 2em;
-
-      }
+}
 
 
-      #verde {
+body {
 
-        background-color: green;
+  font-size: 16px;
 
-      }
-
-
-      #verde-escuro {
-
-        background-color: seagreen;
-
-      }
+}
 
 
-      #azul {
+li {
 
-        background-color: blue;
+  font-style: italic;
 
-      }
+  line-height: 60px;
 
-    </style>
+  text-align: center;
+
+  text-decoration: underline;
+
+  font-size: 2em;
+
+}
+
+
+#verde {
+
+  background-color: green;
+
+}
+
+
+#verde-escuro {
+
+  background-color: seagreen;
+
+}
+
+
+#azul {
+
+  background-color: blue;
+
+}
