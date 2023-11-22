@@ -1,43 +1,89 @@
-ol {
-  background-color: yellow;
+h1 {
+
+  text-align: center;
+
 }
-li.impar{
-  color: green;
-}
-li.par{
-  text-transform: lowercase;
-}
-h1, h3{
-  color: red;
-}
-h1 em {
-  font-size: 40px;
-  border: 1px solid black;
-}
-li {
+
+
+.first {
+
+  display: inline-block;
+
+  position: absolute;
+
+  left: 665px;
+
+  background-color: rgb(235, 200, 84);
+
   font-size: 20px;
+
+  height: 50px;
+
+  text-align: center;
+
+  width: 200px;
+
 }
-li em {
-  font-weight: bolder;
+
+
+.second {
+
+  display: inline-block;
+
+  position: absolute;
+
+  top: 131px;
+
+  left: 463px;
+
+  background-color: rgb(219, 219, 219);
+
+  font-size: 20px;
+
+  height: 50px;
+
+  text-align: center;
+
+  width: 300px;
+
 }
-li.top-tres {
-  color: blue;
+
+
+.third {
+
+  display: inline-block;
+
+  position: absolute;
+
+  top: 131px;
+
+  left: 767px;
+
+  background-color: rgb(170, 142, 106);
+
+  font-size: 20px;
+
+  height: 50px;
+
+  text-align: center;
+
+  width: 300px;
+
 }
-li.java {
-  background-color: pink;
+
+section.premiacao {
+  display: inline;
+  position: absolute;
+  left: 655px;
+  top: 200px;
 }
-li a.stackoverflow:hover{
-color: orange;
-}
-li a.wts:hover{
-color: green;
-}
-li a.mdn:hover{
-  color: black;
-}
-li a.ddocs:hover{
-  color: yellow;
-}
-li a.trybe:hover{
-  color: rgb(6, 63, 6);
+
+.premios li {
+  position: relative;
+
+  display: inline-block;
+
+  text-align: center;
+
+  left: -250px;
 }
